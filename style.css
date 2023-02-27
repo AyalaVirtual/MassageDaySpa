@@ -28,6 +28,10 @@ header {
   font-weight: 300;
   letter-spacing: 3px;
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg0hoDiqX_G1aLMyFQqyC9ZWMbk-0RAO3SpyND0zc_jUdnWzoDC0d0ylHNo8SEcJrBm6U&usqp=CAU");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 200px;
 }
 
 p, .banner-contents {
