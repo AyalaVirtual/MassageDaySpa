@@ -1,0 +1,117 @@
+body {
+  background-color: #fcfcfc;
+  color: #db6363;
+  text-align: center;
+}
+
+.grid {
+
+}
+
+header {
+
+}
+
+.title {
+  margin: auto;
+  color: #dc6363;
+  font-family: Poppins;
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.banner {
+  padding: 3%;
+  color: darkgreen;
+  font-family: Poppins;
+  font-size: 3em;
+  font-weight: 300;
+  letter-spacing: 3px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg0hoDiqX_G1aLMyFQqyC9ZWMbk-0RAO3SpyND0zc_jUdnWzoDC0d0ylHNo8SEcJrBm6U&usqp=CAU");
+}
+
+p, .banner-contents {
+  max-width: 80%;
+  margin: auto;
+}
+
+img {
+  height: 5em;
+  margin-left: 75px;
+}
+
+.about {
+  background-color: #f0f0f0;
+
+}
+
+.text {
+  color: #2f2d2d;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-align: justify;
+}
+
+.box {
+  background-color: #2f2f2f;
+  color: #ffffff;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  text-align: center;
+
+}
+
+.address {
+
+}
+
+.hours {
+
+}
+
+.call-us {
+
+}
+
+.icon {
+  height: 80px;
+  margin: auto;
+}
+
+.service {
+  background-color: #f0f0f0;
+  color: #db6363;
+  font-family: Poppins;
+  font-size: 15px;
+  letter-spacing: 3px;
+  text-align: justify;
+}
+
+.one {
+
+}
+
+.two {
+
+}
+
+.three {
+
+}
+
+.four {
+  
+}
+
+footer {
+  background-color: #db6363;
+  color: #ffffff;
+  font-family: Poppins;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+
+}
